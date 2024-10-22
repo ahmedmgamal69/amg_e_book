@@ -1,0 +1,33 @@
+[
+  {
+    "rating": "4.5",
+    "title": "THE WATTER CURE",
+    "text": "Martin Hyatt",
+    "img": "asset/images/life_word.jpg"
+  },
+  {
+    "rating": "4.6",
+    "title": "THE Word World",
+    "text": "WELCOME TO THE WORLD",
+    "img": "asset/images/words.jpg"
+  },
+  {
+    "rating": "4.7",
+    "title": "NOWHERE TO ESCAPE",
+    "text": "DON'T ESCAPE",
+    "img": "asset/images/typewriter.jpg"
+  },
+  {
+    "rating": "4.8",
+    "title": "DARKNESS",
+    "text": "STAY IN THE DARK",
+    "img": "asset/images/keywords.jpg"
+  },
+
+  {
+    "rating": "4.8",
+    "title": "DARKNESS",
+    "text": "STAY IN THE DARK",
+    "img": "asset/images/pic-8.jpg"
+  }
+]
